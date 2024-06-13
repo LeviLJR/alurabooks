@@ -19,4 +19,4 @@ The focus of this project was the use of the mobile-first methodology for the de
 
 ## 🛠️ Open and run the project
 
-Access the github pages and see the project.
+Access the github pages and see the project: [AluraBooks](https://leviljr.github.io/alurabooks/)
